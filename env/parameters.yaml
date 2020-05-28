@@ -1,0 +1,10 @@
+adminUser:
+  password: local:joplin/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: jenkinsx@beyondit.it
+  token: local:joplin/pipelineUser:token
+  username: JenkinsxBeyondIt
+prow:
+  hmacToken: local:joplin/prow:hmacToken
