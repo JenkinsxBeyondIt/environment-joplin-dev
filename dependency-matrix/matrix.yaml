@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: it-beyondit
-  repo: node_pod2
-  url: https://github.com/it-beyondit/node_pod2.git
+  repo: test_devpod
+  url: https://github.com/it-beyondit/test_devpod.git
   version: ""
   versionURL: ""
